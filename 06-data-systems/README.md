@@ -1,0 +1,35 @@
+# 06 数据系统
+
+## 范围
+
+数据如何建模、存放、查询和流动：数据建模、关系数据库、事务与索引、NoSQL 与检索、数据分析与数据工程入门。
+
+## 不包含什么
+
+- 大数据平台 / 集群运维细节可后挂 [08 基础设施与分布式](../08-infrastructure/)；与本域必须互链，不能切死（参见 DDIA）。
+- 机器学习模型训练正文 → [10 人工智能](../10-artificial-intelligence/)。
+- 纯算法结构课 → [02 算法与数据结构](../02-algorithms/)。
+
+## L2 子类
+
+- 数据建模
+- 关系数据库
+- 事务与索引
+- NoSQL 与检索
+- 数据分析与数据工程入门
+
+## 先修
+
+- [03 计算机系统](../03-computer-systems/)
+
+## 划界书
+
+Hellerstein 等《Readings in Database Systems》（本阶段仅点名）。与 08 互链时亦常读 Kleppmann DDIA。
+
+## 本域资料
+
+见 [resources.md](resources.md)。
+
+## 主题
+
+L3 主题页放在 [topics/](topics/)。

@@ -1,0 +1,36 @@
+# 09 安全
+
+## 范围
+
+攻防与工程化安全；密码学只收到「用得上」的程度：密码学应用、身份与访问、Web 与应用安全、系统与网络安全、安全工程。
+
+## 不包含什么
+
+- **不单独做漏洞利用手册。**
+- 网络协议与 OS 机制主文 → [03 计算机系统](../03-computer-systems/)。
+- Web 应用功能实现主文 → [07 互联网与应用](../07-internet-applications/)。
+
+## L2 子类
+
+- 密码学应用
+- 身份与访问
+- Web 与应用安全
+- 系统与网络安全
+- 安全工程
+
+## 先修
+
+- [07 互联网与应用](../07-internet-applications/)
+- [08 基础设施与分布式](../08-infrastructure/)
+
+## 划界书
+
+Anderson《Security Engineering》（本阶段仅点名）。
+
+## 本域资料
+
+见 [resources.md](resources.md)。
+
+## 主题
+
+L3 主题页放在 [topics/](topics/)。
